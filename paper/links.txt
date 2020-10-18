@@ -1,0 +1,4 @@
+https://medium.com/luisfredgs/automatic-text-summarization-with-machine-learning-an-overview-68ded5717a25
+https://github.com/alexvlis/extractive-document-summarization
+tiếng việt: https://github.com/vunb/vntk/issues/33
+https://viblo.asia/p/xay-dung-chuong-trinh-tom-tat-van-ban-tieng-viet-don-gian-voi-machine-learning-YWOZrgAwlQ0

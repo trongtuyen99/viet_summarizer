@@ -1,0 +1,4 @@
+For example, Abigail See et al. presented an architecture called Pointer-Generator, 
+which allows copying words from the input sequence via pointing of specific positions, 
+whereas a generator allows generating words from a fixed vocabulary of 50k words. 
+The architecture can be viewed as a balance between extractive and abstractive approaches.
